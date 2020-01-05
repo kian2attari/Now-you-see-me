@@ -1,0 +1,6 @@
+﻿  DepthBasics.cpp
+  DepthBasics.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  DepthBasics-D2D.vcxproj -> C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Native\DepthBasics-D2D\x64\Debug\DepthBasics-D2D.exe
